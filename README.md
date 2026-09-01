@@ -11,8 +11,9 @@
 - Thais Ferreira
 
 ## Layout
-![Web1](https://github.com/thaisferreira-moura/MEI/blob/main/miniatura%20mei%202.png)
 ![Web1](https://github.com/thaisferreira-moura/MEI/blob/main/miniatura%20mei.png)
+![Web1](https://github.com/thaisferreira-moura/MEI/blob/main/miniatura%20mei%202.png)
+
 
 ## Introdução
 
