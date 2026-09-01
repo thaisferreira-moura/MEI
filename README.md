@@ -10,6 +10,10 @@
 - Renata Lima
 - Thais Ferreira
 
+## Layout
+![Web1](https://github.com/thaisferreira-moura/MEI/blob/main/miniatura%20mei%202.png)
+![Web1](https://github.com/thaisferreira-moura/MEI/blob/main/miniatura%20mei.png)
+
 ## Introdução
 
 Este estudo aborda o desenvolvimento de um software voltado para facilitar a gestão contábil de microempreendedores no Brasil, com foco em fornecer uma solução acessível e eficiente para desafios enfrentados na administração financeira de pequenos negócios. O desenvolvimento desse software será realizado durante o período de setembro a dezembro de 2024, no ambiente da Faculdade de Tecnologia do Estado de São Paulo (Fatec Diadema - Luigi Papaiz), com o objetivo de ajudar microempreendedores a manterem-se em conformidade com suas obrigações fiscais, oferecendo uma alternativa simplificada e acessível para o suporte contábil especializado.
